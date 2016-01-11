@@ -3,7 +3,8 @@ Airport Challenge
 
 Integration
 -----------
-Master: ![Travis CI](https://travis-ci.org/ALRW/airport_challenge.svg?branch=master)
+-> Master: <-
+-> ![Travis CI](https://travis-ci.org/ALRW/airport_challenge.svg?branch=master) <-
 
 About
 -----
